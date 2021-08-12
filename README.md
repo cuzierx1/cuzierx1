@@ -1,14 +1,16 @@
+##     ⦁═◯═⦁ 𝗘𝗡 𝗖𝗨𝗭𝗜𝗘𝗥 ⦁═◯═⦁
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 - 👋 Hi, I’m @cuzierx1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-cuzierx1/cuzierx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## ⚡Developers
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+## ⦁═══⭕Developers⭕═══⦁
   <div align="center">
     
   [![ᴇɴ ᴄᴜɪᴢᴇʀ](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![ᴛᴜᴛᴜ⚡𝐗](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![ᴍᴀꜱʜ⚡ᴢ](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
