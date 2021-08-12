@@ -1,6 +1,6 @@
-##     ⦁═◯═⦁ 𝗘𝗡 𝗖𝗨𝗭𝗜𝗘𝗥 ⦁═◯═⦁
+##     ⦁═◯𝗘𝗡 𝗖𝗨𝗭𝗜𝗘𝗥◯═⦁
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 - 👋 Hi, I’m @cuzierx1
 - 👀 I’m interested in ...
@@ -8,9 +8,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-## ⦁═══⭕Developers⭕═══⦁
+## ⦁══⭕Developers⭕══⦁
   <div align="center">
     
   [![ᴇɴ ᴄᴜɪᴢᴇʀ](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![ᴛᴜᴛᴜ⚡𝐗](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![ᴍᴀꜱʜ⚡ᴢ](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
