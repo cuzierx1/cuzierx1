@@ -2,6 +2,9 @@
 
 ##   ╔═══𝗖𝘂𝘇𝗶𝗲𝗿 𝗫═══╗
 
+## Hi I'm Cuzier&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 - 👋 Hi, I’m @cuzierx1
@@ -38,3 +41,13 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 [Yusuf Usta](https://t.me/fusufs)
 
 ## 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐮𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 🎭тєєηυн🚀
+
+
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkumar1601&show_icons=true&theme=nightowl" alt="Manish" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar1601&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Manish"/></p></a><br> 
+
+
+
